@@ -38,7 +38,7 @@
             "#060208"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0D0216"
+            "#060208"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#0F0519"
@@ -56,10 +56,10 @@
             "#060208"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0D0216"
+            "#060208"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0D0216"
+            "#060208"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
@@ -87,7 +87,7 @@
             "#100719"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#0D0216"
+            "#060208"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#392F3F"
@@ -128,7 +128,7 @@
         "PRIMARY_400": "#7B628C",
         "PRIMARY_500": "#472F56",
         "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#0D0216",
+        "PRIMARY_630": "#060208",
         "PRIMARY_660": "#0F0519",
         "PRIMARY_700": "#1E0D28",
         "PRIMARY_800": "#120819",
