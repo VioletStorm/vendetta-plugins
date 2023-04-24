@@ -1,3 +1,4 @@
+
 {
     "name": "Vixtra",
     "description": "PLACEHOLDER",
@@ -34,10 +35,10 @@
             "#6F517C"
         ],
         "BACKGROUND_PRIMARY": [
-            "#08000D"
+            "#261133"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1C0C26"
+            "#0D0216"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#0F0519"
@@ -52,13 +53,13 @@
             "#120819"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#08000D"
+            "#261133"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1C0C26"
+            "#0D0216"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1C0C26"
+            "#0D0216"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
@@ -86,7 +87,7 @@
             "#100719"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#1C0C26"
+            "#0D0216"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#392F3F"
@@ -104,7 +105,7 @@
             "#E9438B"
         ],
         "KEYBOARD": [
-            "#08000D"
+            "#261133"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#130021"
@@ -116,7 +117,7 @@
             "#CB93DF"
         ],
         "CHAT_BACKGROUND": [
-            "#08000D"
+            "#261133"
         ]
     },
     "rawColors": {
@@ -127,7 +128,7 @@
         "PRIMARY_400": "#7B628C",
         "PRIMARY_500": "#472F56",
         "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#1C0C26",
+        "PRIMARY_630": "#0D0216",
         "PRIMARY_660": "#0F0519",
         "PRIMARY_700": "#1E0D28",
         "PRIMARY_800": "#120819",
