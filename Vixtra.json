@@ -37,10 +37,10 @@
             "#261133"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1C0C26"
+            "#0D0216"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0D0216"
+            "#0F0519"
         ],
         "BACKGROUND_TERTIARY": [
             "#1E0D28"
@@ -55,10 +55,10 @@
             "#261133"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1C0C26"
+            "#0D0216"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1C0C26"
+            "#0D0216"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
@@ -86,7 +86,7 @@
             "#100719"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#1C0C26"
+            "#0D0216"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#392F3F"
@@ -127,8 +127,8 @@
         "PRIMARY_400": "#7B628C",
         "PRIMARY_500": "#472F56",
         "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#1C0C26",
-        "PRIMARY_660": "#0D0216",
+        "PRIMARY_630": "#0D0216",
+        "PRIMARY_660": "#0F0519",
         "PRIMARY_700": "#1E0D28",
         "PRIMARY_800": "#120819",
         "BRAND_260": "#E59EFF",
