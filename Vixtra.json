@@ -1,0 +1,230 @@
+{
+    "name": "Vixtra",
+    "description": "PLACEHOLDER",
+    "authors": [
+        {
+            "name": "VioletStorm",
+            "id": "246735056280748032"
+        }
+    ],
+"spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#E6A8FF"
+        ],
+        "HEADER_SECONDARY": [
+            "#A175B2"
+        ],
+        "TEXT_NORMAL": [
+            "#E6CAF9"
+        ],
+        "TEXT_MUTED": [
+            "#6F517C"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#AC80BF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#D5B8E0"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#E6A8FF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#6F517C"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#261133"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1C0C26"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#16091E"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1E0D28"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#3C2849"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#120819"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#261133"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1C0C26"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1C0C26"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#020202"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#6F517C"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#6F517C"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#6F517C"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#6F517C"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#100719"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#100719"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#1C0C26"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#392F3F"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#AC80BF"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER" : [
+            "#AC80BF"
+        ],
+        "TEXT_LINK": [
+            "#E1A4F9"
+        ],
+        "TEXT_DANGER": [
+            "#E9438B"
+        ],
+        "KEYBOARD": [
+            "#261133"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#130021"
+        ],
+          "SPOILER_REVEALED_BACKGROUND": [
+            "#391A4C"
+        ],
+        "CHANNEL_ICON": [
+            "#CB93DF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#261133"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#F2EAF7",
+        "PRIMARY_200": "#DCCEE5",
+        "PRIMARY_300": "#BFADCC",
+        "PRIMARY_360": "#9A82A3",
+        "PRIMARY_400": "#7B628C",
+        "PRIMARY_500": "#472F56",
+        "PRIMARY_600": "#261133",
+        "PRIMARY_630": "#1C0C26",
+        "PRIMARY_660": "#16091E",
+        "PRIMARY_700": "#1E0D28",
+        "PRIMARY_800": "#120819",
+        "BRAND_260": "#E59EFF",
+        "BRAND_300": "#DC9AF4",
+        "BRAND_330": "#D393EA",
+        "BRAND_345": "#CE90E5",
+        "BRAND_360": "#CE8EE5",
+        "BRAND_400": "#C388D8",
+        "BRAND_430": "#BE83D3",
+        "BRAND_460": "#B77ECC",
+        "BRAND_500": "#AE78C1",
+        "BRAND_530": "#A471B7",
+        "BRAND_560": "#A070B2",
+        "BRAND_600": "#9466A5",
+        "BRAND_630": "#9065A0",
+        "BRAND_660": "#896099",
+        "BRAND_700": "#80598E",
+        "RED_260": "#FF49A1",
+        "RED_300": "#F2469C",
+        "RED_330": "#E54294",
+        "RED_345": "#D83E8E",
+        "RED_360": "#CC3B88",
+        "RED_400": "#BF377F",
+        "RED_430": "#B23377",
+        "RED_460": "#A53070",
+        "RED_500": "#992D68",
+        "RED_530": "#8C2A60",
+        "RED_560": "#7F2658",
+        "RED_600": "#72224F",
+        "RED_630": "#661E47",
+        "RED_660": "#591A3F",
+        "RED_700": "#4C1637",
+        "ORANGE_260": "#FF7632",
+        "ORANGE_300": "#F26D30",
+        "ORANGE_330": "#E5642D",
+        "ORANGE_345": "#D85C2B",
+        "ORANGE_360": "#CC5428",
+        "ORANGE_400": "#BF4F26",
+        "ORANGE_430": "#B24923",
+        "ORANGE_460": "#A54221",
+        "ORANGE_500": "#993D1E",
+        "ORANGE_530": "#8C381C",
+        "ORANGE_560": "#7F3119",
+        "ORANGE_600": "#722C16",
+        "ORANGE_630": "#662714",
+        "ORANGE_660": "#592111",
+        "ORANGE_700": "#4C1C0F",
+        "YELLOW_260": "#FF7632",
+        "YELLOW_300": "#F26D30",
+        "YELLOW_330": "#E5642D",
+        "YELLOW_345": "#D85C2B",
+        "YELLOW_360": "#CC5428",
+        "YELLOW_400": "#BF4F26",
+        "YELLOW_430": "#B24923",
+        "YELLOW_460": "#A54221",
+        "YELLOW_500": "#993D1E",
+        "YELLOW_530": "#8C381C",
+        "YELLOW_560": "#7F3119",
+        "YELLOW_600": "#722C16",
+        "YELLOW_630": "#662714",
+        "YELLOW_660": "#592111",
+        "YELLOW_700": "#4C1C0F",
+        "GREEN_260": "#E293FF",
+        "GREEN_300": "#D58CF2",
+        "GREEN_330": "#C885E5",
+        "GREEN_345": "#BC7FD8",
+        "GREEN_360": "#B178CC",
+        "GREEN_400": "#A570BF",
+        "GREEN_430": "#9A69B2",
+        "GREEN_460": "#8F61A5",
+        "GREEN_500": "#845A99",
+        "GREEN_530": "#79528C",
+        "GREEN_560": "#6E4B7F",
+        "GREEN_600": "#634472",
+        "GREEN_630": "#583D66",
+        "GREEN_660": "#4C3559",
+        "GREEN_700": "#412D4C",
+        "BLUE_260": "#BC59FF",
+        "BLUE_300": "#B054F2",
+        "BLUE_330": "#A450E5",
+        "BLUE_345": "#994BD8",
+        "BLUE_360": "#9047CC",
+        "BLUE_400": "#8542BF",
+        "BLUE_430": "#7C3EB2",
+        "BLUE_460": "#733AA5",
+        "BLUE_500": "#693799",
+        "BLUE_530": "#5F328C",
+        "BLUE_560": "#562D7F",
+        "BLUE_600": "#4E2972",
+        "BLUE_630": "#452466",
+        "BLUE_660": "#3C2059",
+        "BLUE_700": "#331B4C"
+    },
+    "background": {
+        "blur": 0.0,
+        "url": "https://i.ibb.co/xMBLPFc/warmth.png”,
+        "alpha": 0.5
+        }
+}
