@@ -35,7 +35,7 @@
             "#6F517C"
         ],
         "BACKGROUND_PRIMARY": [
-            "#261133"
+            "#08000D"
         ],
         "BACKGROUND_SECONDARY": [
             "#0D0216"
@@ -53,7 +53,7 @@
             "#120819"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#261133"
+            "#08000D"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#0D0216"
@@ -105,7 +105,7 @@
             "#E9438B"
         ],
         "KEYBOARD": [
-            "#261133"
+            "#08000D"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#130021"
@@ -117,7 +117,7 @@
             "#CB93DF"
         ],
         "CHAT_BACKGROUND": [
-            "#261133"
+            "#08000D"
         ]
     },
     "rawColors": {
